@@ -26,15 +26,15 @@ public class Third {
         int c9=c*d8;
         int c10=c*d9;
 
-        System.out.println("4 * 1 ="+c1);
-        System.out.println("4 * 2 ="+c2);
-        System.out.println("4 * 3 ="+c3);
-        System.out.println("4 * 4 ="+c4);
-        System.out.println("4 * 5 ="+c5);
-        System.out.println("4 * 6 ="+c6);
-        System.out.println("4 * 7 ="+c7);
-        System.out.println("4 * 8 ="+c8);
-        System.out.println("4 * 9 ="+c9);
-        System.out.println("4 * 10 ="+c10);
+        System.out.println("4 * 1 = "+c1);
+        System.out.println("4 * 2 = "+c2);
+        System.out.println("4 * 3 = "+c3);
+        System.out.println("4 * 4 = "+c4);
+        System.out.println("4 * 5 = "+c5);
+        System.out.println("4 * 6 = "+c6);
+        System.out.println("4 * 7 = "+c7);
+        System.out.println("4 * 8 = "+c8);
+        System.out.println("4 * 9 = "+c9);
+        System.out.println("4 * 10 = "+c10);
     }
 }
